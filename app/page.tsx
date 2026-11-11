@@ -95,7 +95,7 @@ export default function Home() {
         <div className="hero-grid" aria-hidden="true"><span /><span /><span /><span /></div>
         <div className="hero-copy">
           <div className="eyebrow"><span className="live-dot" /> PARTNER TEKNOLOGI &amp; SERVICE ANDA</div>
-          <h1>Yang rusak,<br /><em>kami bantu</em><br />bereskan.</h1>
+          <h1>Yang rusak,<br /><em>kami bantu</em><br />perbaiki.</h1>
           <p className="hero-description">Dari perangkat elektronik hingga solusi IT untuk bisnis. Layanan praktis, komunikasi jelas, dan pengerjaan dengan perhatian pada detail dan bergaransi.</p>
           <div className="hero-actions">
             <a className="button button-primary" href="#layanan">Jelajahi layanan <ArrowUpRight /></a>
