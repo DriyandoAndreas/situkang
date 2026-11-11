@@ -167,7 +167,7 @@ export default function Home() {
       <section className="contact-section" id="kontak">
         <div className="contact-inner">
           <div className="section-kicker">04 — ADA YANG BISA KAMI BANTU?</div>
-          <h2>Mari bereskan<br /><span>bersama Si Tukang.</span></h2>
+          <h2>Mari perbaiki<br /><span>bersama Si Tukang.</span></h2>
           <p>Konsultasikan kebutuhan service atau teknologi Anda. Klik tombol di bawah untuk memulai percakapan.</p>
           <a className="button button-light" href={waLink} target="_blank" rel="noreferrer"><WhatsAppIcon /> Hubungi via WhatsApp <ArrowUpRight /></a>
           <div className="contact-foot"><span>BELILAS, INDRAGIRI HULU</span><span>LAYANAN PANGGILAN / SESUAI KESEPAKATAN</span></div>
